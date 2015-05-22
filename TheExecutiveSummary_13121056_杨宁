@@ -1,0 +1,17 @@
+执行摘要（The Executive Summary）
+
+Stage1 
+  可行性分析
+Stage2
+  需求分析
+Stage3
+  根据需求建模
+Stage4
+  实现（前端/后台）
+    Modular1：登录注册
+    Modular2：用户/社团信息管理
+    Modular3：活动(活动发起/活动公告/活动展示)
+    Modular4：搜索
+Stage5
+  测试与评估
+			
